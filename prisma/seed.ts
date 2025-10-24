@@ -9,7 +9,7 @@ async function seedData() {
     update: {},
     create: {
       id: 1,
-      status: 'PENDING',
+      status: 'CREATED',
       accountId: '662c081370bd2ba6b5f04e94',
       description: 'simple transaction',
     },

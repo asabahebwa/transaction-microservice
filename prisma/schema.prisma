@@ -18,7 +18,7 @@ model Transaction {
 }
 
 enum Status {
-  PENDING
-  COMPLETED
+  CREATED
   FAILED
+  APPROVED
 }
